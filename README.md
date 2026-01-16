@@ -94,7 +94,7 @@ Label meaning:
 | x / mx | +E / −E along x |
 | y / my | +E / −E along y |
 | z / mz | +E / −E along z |
-| 1 / m1 | reference pair (along x,y,z) |
+| 1 / m1 | +E / -E along x,y,z |
 
 ---
 
