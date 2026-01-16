@@ -1,0 +1,26 @@
+# ----------------------------
+# Python / Jupyter
+# ----------------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ----------------------------
+# OS files
+# ----------------------------
+.DS_Store
+
+# ----------------------------
+# Temporary / scratch files
+# ----------------------------
+*.log
+*.tmp
+*.swp
+
+# ----------------------------
+# Optional: large intermediates
+# (commented out by default)
+# ----------------------------
+# data/bec_runs/**/WAVECAR
+# data/bec_runs/**/CHGCAR
+# data/bec_runs/**/vasprun.xml
