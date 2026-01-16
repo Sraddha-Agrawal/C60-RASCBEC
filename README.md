@@ -115,7 +115,7 @@ Figures are written to `plots/`.
 
 ---
 
-## Generating rotated POSCAR files for x/mx; y/my; z/mz pairs using rotate.py (rotate.py is in src folder)
+## Generated rotated POSCAR files for x/mx; y/my; z/mz pairs using rotate.py (rotate.py is in src folder)
 
 ---
 
